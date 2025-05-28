@@ -1,12 +1,12 @@
 # 飞书超级文档开发与应用
 DeepSeek - 飞书超级文档开发
 
-### 超级文档 - 1:分镜大师
-https://test-cp80epxn7soj.feishu.cn/docx/OEgcdjv1DoSAS3xz08ccfb32nph
+## 超级文档
 
-### 超级文档 - 2:珠宝设计800款
-https://test-cp80epxn7soj.feishu.cn/share/base/view/shrcnUSDOeBx1jp9X62ipbm6Vnf
+- [分镜大师](https://test-cp80epxn7soj.feishu.cn/docx/OEgcdjv1DoSAS3xz08ccfb32nph)
+- [珠宝设计800款](https://test-cp80epxn7soj.feishu.cn/share/base/view/shrcnUSDOeBx1jp9X62ipbm6Vnf)
 
+### 预览
 | ![Image 1](PiecesOfJewelry/jewerly_00094.jpg) | ![Image 2](PiecesOfJewelry/jewerly_00844.jpg) | ![Image 2](PiecesOfJewelry/jewerly_00613.jpg) |![Image 2](PiecesOfJewelry/jewerly_00670.jpg) |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | ![Image 3](PiecesOfJewelry/jewerly_00845.jpg) | ![Image 4](PiecesOfJewelry/jewerly_02510.jpg) | ![Image 2](PiecesOfJewelry/jewerly_00659.jpg) |![Image 2](PiecesOfJewelry/jewerly_00860.jpg) |
@@ -28,22 +28,25 @@ https://test-cp80epxn7soj.feishu.cn/share/base/view/shrcnUSDOeBx1jp9X62ipbm6Vnf
 - 友好的进度和错误提示
 
 ## 安装依赖
-1. 使用 venv（Python 内置模块） （可选）
-```
-# Windows系统
-python -m venv myenv
-myenv\Scripts\activate
 
-# macOS/Linux系统
-python3 -m venv myenv
-source myenv/bin/activate
-```
+1. 使用 venv（Python 内置模块）（可选）
 
-2. 使用 python 3.9及更高版本安装依赖
-```bash
-pip install -q -U google-genai 
-pip install pillow
-```
+   ```bash
+   # Windows系统
+   python -m venv myenv
+   myenv\Scripts\activate
+
+   # macOS/Linux系统
+   python3 -m venv myenv
+   source myenv/bin/activate
+   ```
+
+2. 安装 Python 3.9 及更高版本的依赖
+
+   ```bash
+   pip install -q -U google-genai
+   pip install pillow
+   ```
 
 ## 使用方法
 
@@ -60,9 +63,9 @@ export GOOGLE_API_KEY=你的API密钥
 创建一个名为`prompts.txt`的文本文件，每行包含一个图像生成提示词。例如：
 
 ```
-a cat 
+a cat
 a dog
-a elephant
+an elephant
 ```
 
 ### 3. 运行脚本
