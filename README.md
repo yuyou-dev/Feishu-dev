@@ -6,6 +6,9 @@ DeepSeek - 飞书超级文档开发
 - [分镜大师](https://test-cp80epxn7soj.feishu.cn/docx/OEgcdjv1DoSAS3xz08ccfb32nph)
 - [珠宝设计800款](https://test-cp80epxn7soj.feishu.cn/share/base/view/shrcnUSDOeBx1jp9X62ipbm6Vnf)
 
+- [字体大师2.0](https://test-cp80epxn7soj.feishu.cn/base/Ga1Vb55riaBvAqsi97ncunlFn9c?from=from_copylink)
+
+
 ### 预览
 | ![Image 1](PiecesOfJewelry/jewerly_00094.jpg) | ![Image 2](PiecesOfJewelry/jewerly_00844.jpg) | ![Image 2](PiecesOfJewelry/jewerly_00613.jpg) |![Image 2](PiecesOfJewelry/jewerly_00670.jpg) |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|
